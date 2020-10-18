@@ -20,6 +20,8 @@ This chatbot  provides 24/7  service to the customers. It will provide the shopp
 
 Block diagram of Chatbot:
 
+https://github.com/19PA1A0569/ml-project-I/blob/main/2020-10-18%20(2).png
+
 
 Youtube Link of Demo:
 
